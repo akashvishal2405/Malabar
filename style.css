@@ -4,13 +4,6 @@
     box-sizing: border-box;
 }
 
-html{
-    scroll-behavior: smooth;
-}
-
-body{
-    background-color: #5e4a28;
-}
 .item img{
     padding: 10px;
  background-color:  rgb(251, 241, 101);
@@ -66,15 +59,16 @@ a{
 .outerbox{
     background: rgb(249,236,47);
 background: linear-gradient(90deg, rgb(251, 241, 101) 0%, rgba(255,255,255,1) 50%, rgba(251, 241, 101) 100%);
-    position: relative;
-    top: 180px;
- 
+position: relative;
+top: 180px;
+
    
 }
 
 .juice{
     display: grid;
     grid-template-columns: 1fr 1fr;
+ 
    
 }
 
@@ -92,3 +86,81 @@ background: linear-gradient(90deg, rgb(251, 241, 101) 0%, rgba(255,255,255,1) 50
 strong{
     font-size: 0.9rem;
 }
+#milkshake{
+    padding-top: 180px;
+ }
+ #freshlime{
+    padding-top: 180px;
+ }
+ #spl{
+    padding-top: 180px;
+ }
+ #chocospl{
+    padding-top: 180px;
+ }
+ 
+ #icecreamshake{
+    padding-top: 180px;
+ }
+ 
+ #soda{
+    padding-top: 180px;
+ }
+ 
+ #hotdrinks{
+    padding-top: 180px;
+ }
+ 
+ #icecream{
+    padding-top: 180px;
+ }
+ 
+ #falodaa{
+    padding-top: 180px;
+ }
+ 
+ #lassi{
+    padding-top: 180px;
+ }
+ #healthy{
+    padding-top: 180px;
+ }
+ 
+ #cold{
+    padding-top: 180px;
+ }
+ 
+ #mojito{
+    padding-top: 180px;
+ }
+ 
+ #specialfry{
+    padding-top: 180px;
+ }
+ 
+ #sandwich{
+    padding-top: 180px;
+ }
+ 
+ #burger{
+    padding-top: 180px;
+ }
+ #maggie{
+    padding-top: 180px;
+ }
+ #breadomlete{
+    padding-top: 180px;
+ }
+ #vegsnacks{
+    padding-top: 180px;
+ }
+ .end{
+   position: relative;
+   top: 25px;
+   display: flex;
+   justify-content: center;
+ 
+ }
+ 
+ 
+ 
